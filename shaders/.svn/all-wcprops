@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/cgitech/!svn/ver/4/trunk/shaders
+END
+Colour.fs
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/cgitech/!svn/ver/3/trunk/shaders/Colour.fs
+END
+Colour.vs
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/cgitech/!svn/ver/3/trunk/shaders/Colour.vs
+END
+Phong.fs
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/cgitech/!svn/ver/4/trunk/shaders/Phong.fs
+END
+Phong.vs
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/cgitech/!svn/ver/3/trunk/shaders/Phong.vs
+END

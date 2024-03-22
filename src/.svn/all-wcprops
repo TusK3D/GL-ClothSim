@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 33
+/svn/cgitech/!svn/ver/6/trunk/src
+END
+MassPoint.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/cgitech/!svn/ver/3/trunk/src/MassPoint.cpp
+END
+AbstractRK4Integrator.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/cgitech/!svn/ver/3/trunk/src/AbstractRK4Integrator.cpp
+END
+RK4Spring.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/cgitech/!svn/ver/6/trunk/src/RK4Spring.cpp
+END
+main.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/cgitech/!svn/ver/3/trunk/src/main.cpp
+END
+Cloth.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/cgitech/!svn/ver/6/trunk/src/Cloth.cpp
+END
+GLWindow.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/cgitech/!svn/ver/6/trunk/src/GLWindow.cpp
+END
+MainWindow.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/cgitech/!svn/ver/3/trunk/src/MainWindow.cpp
+END

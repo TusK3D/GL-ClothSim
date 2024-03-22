@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/cgitech/!svn/ver/3/trunk/obj/ClothSimulator1.0.0/usr/share/qt4/mkspecs/features
+END
+qt.prf
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/cgitech/!svn/ver/3/trunk/obj/ClothSimulator1.0.0/usr/share/qt4/mkspecs/features/qt.prf
+END
+debug.prf
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/cgitech/!svn/ver/3/trunk/obj/ClothSimulator1.0.0/usr/share/qt4/mkspecs/features/debug.prf
+END
+lex.prf
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/cgitech/!svn/ver/3/trunk/obj/ClothSimulator1.0.0/usr/share/qt4/mkspecs/features/lex.prf
+END
+default_post.prf
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/cgitech/!svn/ver/3/trunk/obj/ClothSimulator1.0.0/usr/share/qt4/mkspecs/features/default_post.prf
+END
+declarative_debug.prf
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/cgitech/!svn/ver/3/trunk/obj/ClothSimulator1.0.0/usr/share/qt4/mkspecs/features/declarative_debug.prf
+END
+default_pre.prf
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/cgitech/!svn/ver/3/trunk/obj/ClothSimulator1.0.0/usr/share/qt4/mkspecs/features/default_pre.prf
+END
+include_source_dir.prf
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/cgitech/!svn/ver/3/trunk/obj/ClothSimulator1.0.0/usr/share/qt4/mkspecs/features/include_source_dir.prf
+END
+warn_on.prf
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/cgitech/!svn/ver/3/trunk/obj/ClothSimulator1.0.0/usr/share/qt4/mkspecs/features/warn_on.prf
+END
+qt_config.prf
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/cgitech/!svn/ver/3/trunk/obj/ClothSimulator1.0.0/usr/share/qt4/mkspecs/features/qt_config.prf
+END
+exclusive_builds.prf
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/cgitech/!svn/ver/3/trunk/obj/ClothSimulator1.0.0/usr/share/qt4/mkspecs/features/exclusive_builds.prf
+END
+resources.prf
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/cgitech/!svn/ver/3/trunk/obj/ClothSimulator1.0.0/usr/share/qt4/mkspecs/features/resources.prf
+END
+qt_functions.prf
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/cgitech/!svn/ver/3/trunk/obj/ClothSimulator1.0.0/usr/share/qt4/mkspecs/features/qt_functions.prf
+END
+moc.prf
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/cgitech/!svn/ver/3/trunk/obj/ClothSimulator1.0.0/usr/share/qt4/mkspecs/features/moc.prf
+END
+yacc.prf
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/cgitech/!svn/ver/3/trunk/obj/ClothSimulator1.0.0/usr/share/qt4/mkspecs/features/yacc.prf
+END
+uic.prf
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/cgitech/!svn/ver/3/trunk/obj/ClothSimulator1.0.0/usr/share/qt4/mkspecs/features/uic.prf
+END
+release.prf
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/cgitech/!svn/ver/3/trunk/obj/ClothSimulator1.0.0/usr/share/qt4/mkspecs/features/release.prf
+END

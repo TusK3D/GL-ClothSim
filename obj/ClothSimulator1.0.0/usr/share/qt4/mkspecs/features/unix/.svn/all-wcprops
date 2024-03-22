@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/cgitech/!svn/ver/3/trunk/obj/ClothSimulator1.0.0/usr/share/qt4/mkspecs/features/unix
+END
+opengl.prf
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/cgitech/!svn/ver/3/trunk/obj/ClothSimulator1.0.0/usr/share/qt4/mkspecs/features/unix/opengl.prf
+END
+gdb_dwarf_index.prf
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/cgitech/!svn/ver/3/trunk/obj/ClothSimulator1.0.0/usr/share/qt4/mkspecs/features/unix/gdb_dwarf_index.prf
+END
+thread.prf
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/cgitech/!svn/ver/3/trunk/obj/ClothSimulator1.0.0/usr/share/qt4/mkspecs/features/unix/thread.prf
+END

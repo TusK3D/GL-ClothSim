@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/cgitech/!svn/ver/4/trunk/obj/ClothSimulator1.0.0/src
+END
+MainWindow.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/cgitech/!svn/ver/3/trunk/obj/ClothSimulator1.0.0/src/MainWindow.cpp
+END
+MassPoint.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/cgitech/!svn/ver/3/trunk/obj/ClothSimulator1.0.0/src/MassPoint.cpp
+END
+AbstractRK4Integrator.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/cgitech/!svn/ver/3/trunk/obj/ClothSimulator1.0.0/src/AbstractRK4Integrator.cpp
+END
+RK4Spring.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/cgitech/!svn/ver/4/trunk/obj/ClothSimulator1.0.0/src/RK4Spring.cpp
+END
+main.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/cgitech/!svn/ver/3/trunk/obj/ClothSimulator1.0.0/src/main.cpp
+END
+Cloth.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/cgitech/!svn/ver/4/trunk/obj/ClothSimulator1.0.0/src/Cloth.cpp
+END
+GLWindow.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/cgitech/!svn/ver/4/trunk/obj/ClothSimulator1.0.0/src/GLWindow.cpp
+END

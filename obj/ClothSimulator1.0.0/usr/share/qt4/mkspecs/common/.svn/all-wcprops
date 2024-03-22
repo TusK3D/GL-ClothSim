@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/cgitech/!svn/ver/3/trunk/obj/ClothSimulator1.0.0/usr/share/qt4/mkspecs/common
+END
+g++-unix.conf
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/cgitech/!svn/ver/3/trunk/obj/ClothSimulator1.0.0/usr/share/qt4/mkspecs/common/g++-unix.conf
+END
+linux.conf
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/cgitech/!svn/ver/3/trunk/obj/ClothSimulator1.0.0/usr/share/qt4/mkspecs/common/linux.conf
+END
+unix.conf
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/cgitech/!svn/ver/3/trunk/obj/ClothSimulator1.0.0/usr/share/qt4/mkspecs/common/unix.conf
+END
+g++-base.conf
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/cgitech/!svn/ver/3/trunk/obj/ClothSimulator1.0.0/usr/share/qt4/mkspecs/common/g++-base.conf
+END
+gcc-base.conf
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/cgitech/!svn/ver/3/trunk/obj/ClothSimulator1.0.0/usr/share/qt4/mkspecs/common/gcc-base.conf
+END
+gcc-base-unix.conf
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/cgitech/!svn/ver/3/trunk/obj/ClothSimulator1.0.0/usr/share/qt4/mkspecs/common/gcc-base-unix.conf
+END
